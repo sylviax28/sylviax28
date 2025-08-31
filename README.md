@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Sylvia!
-💻 software engineering specialist @ university of toronto
-🔭 working on improving my javascript and learning new technologies
+- 💻 software engineering specialist @ university of toronto
+- 🔭 working on improving my javascript and learning new technologies
 
 technologies: python | javascript | C | react | node.js 
 
