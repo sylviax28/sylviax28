@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi there, I'm Sylvia!
+💻 software engineering specialist @ university of toronto
+🔭 working on improving my javascript and learning new technologies
+
+technologies: python | javascript | C | react | node.js 
+
+📫 you can reach me at sylviaxu59@gmail.com!
+
 
 <!--
 **sylviax28/sylviax28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
