@@ -2,7 +2,7 @@
 - 💻 software engineering specialist @ university of toronto
 - 🔭 working on improving my javascript and learning new technologies
 
-technologies: python | javascript | C | react | node.js | electron.js
+technologies: python | javascript | C | C++ | java | react | node.js | electron.js
 
 📫 you can reach me at sylviaxu59@gmail.com!
 
