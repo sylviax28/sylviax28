@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Sylvia!
 - 💻 software engineering specialist @ university of toronto
-- 🔭 working on improving my javascript and learning new technologies
+- currently interning @ Alida in downtown toronto
 
 technologies: python | javascript | C | C++ | java | react | node.js | electron.js
 
-📫 you can reach me at sylviaxu59@gmail.com!
+📫 you can reach me at sylviaxu59@gmail.com or sylvia.y.xu@mail.utoronto.ca
 
 
 <!--
