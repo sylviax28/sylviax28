@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Sylvia!
 - 💻 software engineering specialist @ university of toronto
-- currently interning @ Alida in downtown toronto
+- currently interning @ Alida inc in downtown toronto
 - I have 3 dogs (contact me for photos :3)
 
   ## languages
