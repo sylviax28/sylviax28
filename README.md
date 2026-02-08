@@ -28,7 +28,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sylviax28&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sylviax28&theme=transparent&hide_border=true" />
+</p>
 
 📫 you can reach me at sylviaxu59@gmail.com or sylvia.y.xu@mail.utoronto.ca
 
