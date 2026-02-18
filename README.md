@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sylviax28&theme=transparent&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sylviax28&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 📫 you can reach me at sylviaxu59@gmail.com or sylvia.y.xu@mail.utoronto.ca
