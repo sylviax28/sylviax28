@@ -1,6 +1,7 @@
 ## 👋 hi there, i'm sylvia!
 - 💻 software engineering specialist @ university of toronto
 - currently interning @ Alida inc in downtown toronto
+- check out my [portfolio website](https://sylviaxu.vercel.app/)
 
 ## languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
