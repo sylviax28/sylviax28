@@ -1,6 +1,6 @@
 ## 👋 hi there, i'm sylvia!
 - 💻 software engineering specialist @ university of toronto
-- currently interning @ Alida inc in downtown toronto
+- currently interning @ Alida in downtown toronto
 - check out my [portfolio website](https://sylviaxu.vercel.app/)
 
 ## languages
